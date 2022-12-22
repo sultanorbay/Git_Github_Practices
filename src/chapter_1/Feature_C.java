@@ -4,5 +4,6 @@ public class Feature_C {
     public static void main(String[] args) {
         System.out.println("feature c");
         System.out.println("dfghjkl");
+        System.out.println("work 2");
     }
 }
